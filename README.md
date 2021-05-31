@@ -29,10 +29,13 @@ Screenshots (concept and experience), Video
 
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Textures Leaves and Grass,
+Sounds
+
 
 ### Project state: 
 2%/100% finished
-<progress max="100" value="2"></progress>
+<progress max="100" value="50"></progress>
 
 ### Limitations: 
 
