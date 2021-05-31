@@ -32,7 +32,6 @@ Screenshots (concept and experience), Video
 Textures Leaves and Grass,
 Sounds
 
-
 ### Project state: 
 2%/100% finished
 <progress max="100" value="50"></progress>
