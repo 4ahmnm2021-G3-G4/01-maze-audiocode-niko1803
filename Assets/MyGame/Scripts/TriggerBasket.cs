@@ -34,7 +34,9 @@ public class TriggerBasket : MonoBehaviour
     {
         if (needleInBox && needleInBox1 && needleInBox2)
         {
-            wu.transform.position(12, 3, 10);
+           // wu.transform.position(12, 3, 10);
+
+        wu.go.transform.position = new Vector3(12, 3, 10);
         }
     }
 }
