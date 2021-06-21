@@ -33,7 +33,7 @@ Textures Leaves and Grass,
 Sounds
 
 ### Project state: 
-2%/100% finished
+70%/100% finished
 <progress max="100" value="50"></progress>
 
 ### Limitations: 
