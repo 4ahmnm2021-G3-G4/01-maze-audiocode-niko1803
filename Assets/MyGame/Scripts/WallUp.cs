@@ -4,15 +4,7 @@ using UnityEngine;
 
 public class WallUp : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject go;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+  
 }
