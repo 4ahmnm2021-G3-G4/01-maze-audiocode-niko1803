@@ -1,4 +1,4 @@
-# 01-maze-audiocode-smeerws
+# 01-maze-audiocode-niko1803
 
 ### Project description: 
 Die Szenerie ist ein frühlingshafter Garten, wobei man sich selbst auf ca. Ameisengröße befindet. Im Hintergrund hört man Blätter rascheln (Stereo, Loop). Man soll drei goldene Nadeln einsammeln (Einsammelsound -> Oneshot, Mono) , wo mit einem mystischen Geräusch (Synth, Mono) nacheinander die Richtung angezeigt wird. Man hört auch immer wieder dumpfe Schritte im Hintergrund (Stereo). 
