@@ -29,7 +29,7 @@ Screenshots (concept and experience), Video
 
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-Textures Leaves and Grass,
+Textures Leaves and Grass, Sound (freesound.org), needle 3d object
 Sounds
 
 ### Project state: 
@@ -39,5 +39,8 @@ Sounds
 ### Limitations: 
 
 ### Lessons Learned: 
+-Einbinden von Sounds im 3D-Raum
+-steamvr näher kennengelernt
+-wiederholung von c#
 
 Copyright by smeerws :)
