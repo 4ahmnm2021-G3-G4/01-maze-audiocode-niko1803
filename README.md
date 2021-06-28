@@ -27,14 +27,20 @@ Tested on Oculus Rift S
 ### Visuals: 
 Screenshots (concept and experience), Video
 
+![unity1](https://user-images.githubusercontent.com/56028931/123591352-22bd0a00-d7ec-11eb-8f94-737606ebf199.JPG)
+![unity2](https://user-images.githubusercontent.com/56028931/123591373-29e41800-d7ec-11eb-93e0-9b75a51b05e3.JPG)
+![unity3](https://user-images.githubusercontent.com/56028931/123591378-2baddb80-d7ec-11eb-98cc-1297d8ed35ed.JPG)
+![unity4](https://user-images.githubusercontent.com/56028931/123591383-2e103580-d7ec-11eb-8cc4-92bd050d79f6.JPG)
+
+
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-Textures Leaves and Grass, Sound (freesound.org), needle 3d object
-Sounds
+Textures Leaves and Grass (pinterest.com), Sounds (freesound.org), needle 3d object (sketchfab.com), skybox (UnityAssets)
+
 
 ### Project state: 
 70%/100% finished
-<progress max="100" value="50"></progress>
+<progress max="100" value="70"></progress>
 
 ### Limitations: 
 
@@ -43,4 +49,4 @@ Sounds
 -steamvr näher kennengelernt
 -wiederholung von c#
 
-Copyright by smeerws :)
+
