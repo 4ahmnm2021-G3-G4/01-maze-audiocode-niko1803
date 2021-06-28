@@ -11,6 +11,7 @@
 /[Mm]emoryCaptures/
 /[Pp]ackages/
 
+/[Aa]ssets/**/*.meta
 /[Aa]ssets/SteamVR/
 /[Aa]ssets/SteamVR_Input/
 /[Aa]ssets/SteamVR_Resources/
