@@ -1,7 +1,7 @@
 # 01-maze-audiocode-niko1803
 
 ### Project description: 
-Die Szenerie ist ein frühlingshafter Garten, wobei man sich selbst auf ca. Ameisengröße befindet. Im Hintergrund hört man Blätter rascheln (Stereo, Loop). Man soll drei goldene Nadeln einsammeln (Einsammelsound -> Oneshot, Mono) , wo mit einem mystischen Geräusch (Synth, Mono) nacheinander die Richtung angezeigt wird. Man hört auch immer wieder dumpfe Schritte im Hintergrund (Stereo). 
+Die Szenerie ist ein frühlingshafter Garten, wobei man sich selbst auf ca. Ameisengröße befindet. Im Hintergrund hört man Blätter rascheln (Stereo, Loop). Man soll drei goldene Nadeln einsammeln (Einsammelsound -> Oneshot, Mono) , wo mit einem mystischen Geräusch (Synth, Mono) nacheinander die Richtung angezeigt wird. Die Nadeln sollen in einem goldenene Korb (Cube) eingesammelt werden, dadurch öffnet sich die Tür und man kommt aus dem Labyrinth frei.
 
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2019.1.14f1, Visual Studio 2019, Steam,  
